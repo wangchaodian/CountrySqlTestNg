@@ -13,7 +13,7 @@
 		</groups>
 	
 		<classes>
-			<class name = "com.qa.tests.CountryTset"/> 
+			<class name = "com.qa.tests.CountryTset1"/> 
 		</classes>
 		
 	</test>
